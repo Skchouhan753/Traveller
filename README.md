@@ -1,6 +1,6 @@
 # spiritual-school-8644
 
-# [Travel Tourism](https://spiritual-school-8644-travel-tour.netlify.app/)
+# [Travel Tourism](https://app.netlify.com/sites/famous-macaron-90226f/deploys/65cc6a627921187b0f3d6eb4)
 
 - Clone of [Ecotourism](https://dribbble.com/shots/21258813-Ecotourism-Travel-Landing-Page-Hero)
 
